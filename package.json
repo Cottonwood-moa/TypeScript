@@ -1,0 +1,14 @@
+{
+  "name": "tsc-project",
+  "version": "1.0.0",
+  "description": "타입스크립트 실습",
+  "main": "index.js",
+  "scripts": {
+    "build":"tsc"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "typescript": "^4.4.4"
+  }
+}
